@@ -46,16 +46,23 @@
 
 ## 🚀 **Active Projects & Labs**
 
-- **AWS Security Lab Environment**  
+- [AWS Security Lab Environment](https://github.com/ZedDonkeng/AWS-Security-Lab-Environment-)
+  
+  Building automated security testing environment with GuardDuty, Security Hub, and custom threat detection rules
+
+- **[AWS Security Lab Environment] (https://github.com/ZedDonkeng/AWS-Security-Lab-Environment-)**  [Verify]
+  Building automated security testing environment with GuardDuty, Security Hub, and custom threat detection rules
+
+- [AWS Security Lab Environment] 
   Building automated security testing environment with GuardDuty, Security Hub, and custom threat detection rules
   
-- **Cloud Security Automation Repository**  
+- [Cloud Security Automation Repository](https://github.com/ZedDonkeng/Cloud-Security-Automation/blob/main/README.md) 
   Developing Python scripts for automated security audits and compliance checks in AWS
   
-- **Threat Detection Playbooks**  
+- [Threat Detection Playbooks](https://github.com/ZedDonkeng/Threat-Detection-Playbooks)
   Creating incident response runbooks for common cloud security scenarios
   
-- **CySA+ Practical Exercises**  
+- [CySA+ Practical Exercises](https://github.com/ZedDonkeng/CySA-Practical-Exercises)  
   Documenting hands-on security analysis techniques and detection methodologies
 
 ---
