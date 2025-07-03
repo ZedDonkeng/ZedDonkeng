@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://placehold.co/800x200/0f172a/ecfeff?text=Cloud+Security+Engineer+|+AWS+Specialist+|+Threat+Mitigation+Specialist" alt="Banner" width="100%"/>
+  <img src="https://placehold.co/1200x100/0f172a/ecfeff?text=Cloud+Security+Engineer+|+AWS+Specialist+|+Threat+Mitigation+Specialist" alt="Banner" width="100%"/>
   
   [![AWS Security Specialty](https://img.shields.io/badge/AWS-Security_Specialty-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-security-specialty/)
   [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-e40e16?logo=comptia&logoColor=white)](https://www.comptia.org/certifications/cybersecurity-analyst)
@@ -29,7 +29,7 @@ Welcome to my GitHub! Here, you’ll find projects where I:
 |-------------------|--------------|------------|----------------|
 | AWS Certified Solutions Architect - Associate | Amazon Web Services | Obtained | [Verify](https://www.credly.com/badges/4e177e10-6a42-4eb3-8cd0-f483eb685a95/public_url) |
 | CompTIA Security+ | CompTIA | Obtained | [Verify](https://www.credly.com/badges/f1bc2c0c-cd7e-4e14-b0ba-2e9500ba78b8/linked_in_profile) |
-| Associate Degree in Cybersecurity | Alamance Communit College in Graham | Graduate | - |
+| Associate Degree in Cybersecurity | Alamance Communit College in Graham | Graduated | - |
 | CompTIA CySA+ | CompTIA | In Progress | - |
 | AWS Certified Security - Specialty | Amazon Web Services | In Progress | - |
 
@@ -72,7 +72,7 @@ Welcome to my GitHub! Here, you’ll find projects where I:
   
 
 #### 🔍 Threat Detection Automation
-**Repository:** `threat-detection-scripts`  [threat-detection-scripts](https://github.com/ZedDonkeng/Cloud-Security-Automation/blob/main/README.md)
+**Repository:** [threat-detection-scripts](https://github.com/ZedDonkeng/Cloud-Security-Automation/blob/main/README.md)
 - Python scripts for automated log analysis  
 - Custom SIEM rules and playbooks  
 - Incident response automation workflows  
@@ -120,25 +120,7 @@ Welcome to my GitHub! Here, you’ll find projects where I:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeddonkeng&layout=compact&theme=dark)
 
 ---
-
 **"Security is not a product, but a process."** – Bruce Schneier  
 *Always learning, always securing, always improving.*
 
 
-  
-## 📈 **GitHub Activity**
-
-<div align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" alt="Contribution Streak" width="48%"/>
-  </a>
-</div>
-
----
-
-## 📫 **Connect With Me**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![AWS Community](https://img.shields.io/badge/AWS_Community-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/developer/community/)
