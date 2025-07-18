@@ -63,8 +63,8 @@ Welcome to my GitHub! Here, you’ll find projects where I:
 
 ### 🚀 Featured Projects
 
-#### 🏗️ AWS Security Architecture Labs
-**Repository:** [aws-security-labs](https://github.com/ZedDonkeng/AWS-Security-Lab-Environment-)
+#### 🏗️ AWS Cloud Security Architecture & Implementation
+**Repository:** [aws-security-labs](https://github.com/ZedDonkeng/AWS-Security-Lab-Environment-/blob/main/AWS%20Cloud%20Security%20Architecture%20%26%20Implementation.md)
 - Implementation of AWS security best practices  
 - Multi-tier application security designs  
 - Automated security monitoring with CloudWatch and GuardDuty  
