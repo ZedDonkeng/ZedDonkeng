@@ -106,7 +106,7 @@ Welcome to my GitHub! Here, you’ll find projects where I:
 
 ### 📫 Let's Connect
 
-- 💼 **LinkedIn:** donkengzed@gmail.com  
+- 💼 **LinkedIn:** zeddonkeng@gmail.com 
 - 📧 **Email:** zeddonkeng@gmail.com    
 #- 🌐 **Website/Blog:** [Your Security Blog] *(if applicable)* # 
 - 🐦 **Twitter:** [@YourHandle] *(if applicable)*
