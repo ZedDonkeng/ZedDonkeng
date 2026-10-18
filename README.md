@@ -30,7 +30,7 @@ Welcome to my GitHub! Here, you’ll find projects where I:
 | AWS Certified Solutions Architect - Associate | Amazon Web Services | Obtained | [Verify](https://www.credly.com/badges/4e177e10-6a42-4eb3-8cd0-f483eb685a95/public_url) |
 | CompTIA Security+ | CompTIA | Obtained | [Verify](https://www.credly.com/badges/f1bc2c0c-cd7e-4e14-b0ba-2e9500ba78b8/linked_in_profile) |
 | Associate Degree in Cybersecurity | Alamance Communit College in Graham | Graduated | - |
-| CompTIA CySA+ | CompTIA | In Progress | - |
+| CompTIA CySA+ | CompTIA | In Progress | - | [Verify](https://www.credly.com/badges/f1bc2c0c-cd7e-4e14-b0ba-2e9500ba78b8/linked_in_profile) |
 | AWS Certified Security - Specialty | Amazon Web Services | In Progress | - |
 
 ---
